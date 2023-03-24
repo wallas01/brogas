@@ -1,0 +1,14 @@
+body{
+    margin: 0 !important;
+}
+
+@media (min-width: 40em){
+    #navbarIcon{
+        padding-bottom: 0 !important;   
+    }
+
+    #partecipazioni{
+        padding-left:10rem !important;
+    }
+}
+
