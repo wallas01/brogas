@@ -1,0 +1,73 @@
+
+
+Gargantua Film
+Zalab.org
+redibis film.it
+ZenMoviesDistribuzione
+IndigoFilm
+
+Importante poter switchare lingua
+
+
+--PAGINE--
+
+
+HomePage:
+Immagine a schermo intero con Navbar che collassa in icona su cellulare
+Oppure Homestile ZenMovie
+
+
+About:
+Stile ZenMovie con solo una colonna scritta switchabile da italiano a inglese
+3 card con le descrizioni dei registi
+
+
+
+Distribuzione
+Sulla parte Catalogo -> Gargantua
+Sul singolo progetto -> Zenmovie
+
+
+
+Produzioni [Documentari e Cortometraggi]
+Molto simile alla parte di distribuzione
+
+
+Pagina Back Office per caricare progetti nuovi (sia produzioni che distribuzioni)
+
+
+-------------------
+
+Catologo distribuzione:
+-Indicazione se è in distribuzione
+-2 sottotitoli [Autori - Genere, durata, (anno)]
+-piccolissima trama (max 4 righe)
+
+
+Footer: (prendere info dal sito: http://www.brogadoitefilm.com/?lang=it)
+
+-Ragione sociale
+-P.Iva + codice fiscale
+-mail
+-telefono
+-levare icona twitter
+-mettere icona yt
+
+
+Catalogo Produzione: 
+-Uguale al catalogo distribuzione tranne per la dicitura "In sviluppo" al posto di "in distribuzione"
+
+Nella pagina dei progetti se manca un'informazione nei crediti non visualizzare la linea
+Aggiungere sezione rassegna stampa e sezione "Prenotazione della proiezione"
+
+Provare con colore di sfondo leggermente meno bianco
+
+-----------------------
+
+Riconoscimenti e Partecipazioni da cambiare con "FESTIVAL E RICONOSCIMENTI"
+Tutti i titoli in maiuscolo
+Sistemare un po il layout della pagina dei progetti
+Unire la 2 e la 3 riga sotto la copertina del progetto
+Capire come fare con le immagini quadrate
+Aggiungere il campo locandina
+Footer un po più piccolo

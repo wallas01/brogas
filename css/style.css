@@ -1,0 +1,175 @@
+@import url('https://fonts.cdnfonts.com/css/avenir');
+
+
+body {
+    margin: 0 !important;
+    background-color: mintcream;
+    font-family: 'Avenir', sans-serif;
+}
+
+
+@media (min-width: 40em) {
+    #navbarIcon {
+        padding-bottom: 0 !important;
+    }
+
+    #tramaFilm {
+        margin-top: 3rem !important;
+    }
+
+
+    #footerText {
+        margin-bottom: 0rem !important;
+    }
+
+    body>div.container.d-flex.align-items-center>div>div:nth-child(1) {
+        margin-bottom: 0vh !important;
+    }
+
+    #trailer {
+        margin-bottom: -10rem !important;
+        margin-top: -2rem !important;
+    }
+
+
+    #header>header>ul {
+        flex-wrap: wrap;
+    }
+
+    #header>header {
+        padding-bottom: 1rem !important;
+        padding-top: 1rem !important;
+    }
+
+    #partecipazioni {
+        padding-left: 4rem;
+    }
+
+    #locandina {
+        padding-right: 4rem;
+    }
+
+}
+
+
+
+#footerText {
+    margin-bottom: 1rem;
+}
+
+
+body>div.container.d-flex.align-items-center>div>div:nth-child(1) {
+    margin-bottom: 5vh;
+}
+
+#tramaFilm {
+    text-align: center;
+    max-width: 30rem;
+    margin-top: 10%;
+}
+
+
+#crediti {
+    margin-top: 4rem !important;
+}
+
+#copertinaProgetto {
+    max-width: 100%;
+    max-height: 100%;
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+}
+
+/* #infoFooter{
+    left: 50%;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#linksFooter{
+    left: 50%;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    flex-wrap: unset;
+    margin-top:8%;
+} */
+
+/* #logoFooter{
+    left: 50%;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+} */
+
+
+#creditiDaInserire {
+    padding-bottom: 4%;
+}
+
+#deleteCortometraggi_documentari,
+#deleteCortometraggi_cortometraggi,
+#deleteCortometraggi_distribuzioni {
+    display: none;
+}
+
+.list-group-item {
+    font-size: unset;
+    font-weight: bold;
+}
+
+#titoloProgetto {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+body>div.album.py-5 {
+    padding-top: 0% !important;
+}
+
+#logoNavbar {
+    max-width: 9rem;
+    margin-bottom: -5rem;
+    margin-top: -5rem;
+}
+
+#header>header>ul {
+    flex-wrap: unset !important;
+}
+
+#header>header {
+    padding-bottom: 0rem;
+    padding-top: 1.5rem;
+}
+
+
+
+#Andrea{
+    background-image: url("../src/fotoBrogas/Andrea Settembrini_per sito_SMALL.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Francesco{
+    background-image: url("../src/fotoBrogas/Francesco\ Lorusso_per\ sito_SMALL.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Gabriele{
+    background-image: url("../src/fotoBrogas/Gabriele\ Licchelli_per\ sito_SMALL.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
